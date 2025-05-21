@@ -2,7 +2,7 @@
 
 ## Aim
 
-To write a Python program to add elements to a queue and delete elements out hte queue and  print the elements present at the queue.
+To write a Python program to add elements to a queue and delete elements out the queue and  print the elements present at the queue.
 
 ## Algorithm
 
